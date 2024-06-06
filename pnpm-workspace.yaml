@@ -1,0 +1,3 @@
+packages:
+  - 'repro-ember-intl-tree-depth'
+  - 'test-app'
